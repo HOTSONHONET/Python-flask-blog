@@ -1,0 +1,26 @@
+{
+    "params":
+    {   
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blogs",
+        "prod_uri":"mysql://root:@localhost/blogs",
+        "fb_url": "https://facebook.com",
+        "tw_url": "https://twitter.com",
+        "gthb_url": "https://github.com",
+        "blog_name": "AwesomeBLOGS",
+        "username": "bulusharma1999@gmail.com",
+        "password": "simple1999password",
+        "tag_line": "Write Your Blogs",
+        "about_text": "A blog is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries. Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page.",
+        "no_of_posts":3,
+        "login_img": "blogs.jpg",
+        "Admin_user":"Hotson",
+        "Admin_password":"12345",
+        "upload_location":"D:\\Programming\\Web development\\Learning Flask\\static"
+        
+
+
+
+
+    }
+}
